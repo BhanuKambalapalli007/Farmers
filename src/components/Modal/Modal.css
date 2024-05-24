@@ -1,0 +1,50 @@
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    width:25vw;
+    height:100vh;
+    border-radius:25px;
+    color: rgb(14, 8, 1);
+    background-color:rgba(244, 239, 239, 0.2);
+}
+.form1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    width:25vw;
+    height:70vh;
+    border-radius:25px;
+    color:white;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height:100vh;
+}
+.p1{
+    position: fixed;
+    z-index:-1;
+    height:100vh;
+    width: 100vw;
+    filter: blur(4px);
+  }
+.label{
+    margin:10px;
+}
+.input{
+    width:250px;
+}
+.modal-button{
+    width:100px;
+    margin:10px;
+    border-radius:10px;
+}

@@ -1,0 +1,57 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    margin: 0;
+    text-align: center;
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    background-color: #d3f5cf;
+  }
+  a{
+    text-decoration: none;
+  }
+  .navstyle{
+    background-color:black;
+    width:100%;
+    height:10vh;
+  }
+  .image{
+    height:8vh;
+    width:10vh;
+    margin-left:15px;
+    border-radius:50%;
+  }
+  .projectname{
+    font-family:Roboto;
+      font-weight: 900;
+      height:45px;
+      margin-left:15px;
+      color:#4bda92;
+  }
+  .nav-element{
+    color: #4bda92;
+    margin:20px;
+    margin-left:20px;
+}
+.external{
+  margin:20px;
+}
+.text{
+  text-align: justify;
+  margin:10px;
+  margin-top:0px;
+}
+.external-img{
+  height:32vh;
+  width:250px;
+  border-radius:45%;
+}
+.it{
+  margin:10px;
+}
+.cse{
+  margin:25px;
+}

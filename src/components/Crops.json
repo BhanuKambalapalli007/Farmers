@@ -1,0 +1,782 @@
+{
+  "Crops": [
+    {
+      "name": "Banana",
+      "image": "https://gardeningdream.com/wp-content/uploads/2019/09/How-to-Grow-a-Banana-Tree-with-a-Store-Bought-Banana.png",
+      "telugu": "అరటిపండు",
+      "type": "Fruit",
+      "id": "f698"
+    },
+    {
+      "name": "Bengal Gram (Chana)",
+      "image": "https://thumbs.dreamstime.com/b/close-up-shot-split-bengal-grams-background-sale-groceries-store-close-up-shot-split-bengal-grams-background-202600941.jpg",
+      "telugu": "శెనగలు",
+      "type": "Grocery",
+      "id": "788b"
+    },
+    {
+      "name": "Black Gram (Urad)",
+      "image": "https://www.organicfacts.net/wp-content/uploads/2013/06/Blackgram.jpg",
+      "telugu": "మిణువులు",
+      "type": "Grocery",
+      "id": "5e16"
+    },
+    {
+      "name": "Brinjal (Eggplant)",
+      "image": "https://www.isaaa.org/kc/cropbiotechupdate/files/images/8182020112555PM.jpg",
+      "telugu": "వంకాయ",
+      "type": "Vegetable",
+      "id": "f4f7"
+    },
+    {
+      "name": "Cashew",
+      "image": "https://www.agrifarming.in/wp-content/uploads/2015/03/Ready-to-market-Cashews.jpg",
+      "telugu": "జీడిపప్పు",
+      "type": "Grocery",
+      "id": "43e7"
+    },
+    {
+      "name": "Chilli",
+      "image": "https://kj1bcdn.b-cdn.net/media/25049/mirch.png",
+      "telugu": "మిరపకాయ",
+      "type": "Vegetable",
+      "id": "b4ea"
+    },
+    {
+      "name": "Coconut",
+      "image": "http://1.bp.blogspot.com/-tPQpdh3zDH0/UoDOAqHB2SI/AAAAAAAAAo4/FFPChvSwbWA/s1600/Coconut+Farming+Business.png",
+      "telugu": "కొబ్బరికాయ",
+      "type": "Fruit",
+      "id": "dc78"
+    },
+    {
+      "name": "Cotton",
+      "image": "https://www.worldatlas.com/r/w1200/upload/20/fd/59/shutterstock-508062640.jpg",
+      "telugu": "పత్తి",
+      "type": "Textile",
+      "id": "2aef"
+    },
+    {
+      "name": "Groundnut (Peanut)",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.CvE02-wEhs8b4ESDEVMs1AHaFj&pid=Api&P=0&h=220",
+      "telugu": "వేరుశనగ",
+      "type": "Grocery",
+      "id": "134d"
+    },
+    {
+      "name": "GreenGram",
+      "image": "https://www.apnikheti.com/upload/crops/9001idea99green_gram_crop_banner.jpg",
+      "telugu": "పెసరపప్పు",
+      "type": "Grocery",
+      "id": "85fe"
+    },
+    {
+      "name": "Lentils (Masoor Dal)",
+      "image": "https://www.apnikheti.com/upload/crops/7175idea99red_lentil_16x9.jpg",
+      "telugu": "పప్పు",
+      "type": "Grocery",
+      "id": "50a2"
+    },
+    {
+      "name": "Lemon",
+      "image": "https://i.pinimg.com/originals/37/82/6b/37826bf4b07273e0fe28e99122179893.jpg",
+      "telugu": "నిమ్మకాయ",
+      "type": "Fruit",
+      "id": "d215"
+    },
+    {
+      "name": "Maize",
+      "image": "https://i0.wp.com/theagrinews.com/wp-content/uploads/2020/05/maize-scaled.jpg",
+      "telugu": "మొక్కజొన్న",
+      "type": "Grocery",
+      "id": "d15b"
+    },
+    {
+      "name": "Mango",
+      "image": "https://4.bp.blogspot.com/-fiU1PIqnZMQ/T9c5Qzi8QbI/AAAAAAAACJM/y_Hs8LzO2JA/s1600/mango_king_of_fruits03_ripe.jpg",
+      "telugu": "మామిడికాయ",
+      "type": "Fruit",
+      "id": "97fb"
+    },
+    {
+      "name": "Pulses (lentils, peas, beans)",
+      "image": "https://www.seed.ab.ca/wp-content/uploads/2019/04/pulses.jpg",
+      "telugu": "పప్పులు",
+      "type": "Grocery",
+      "id": "d180"
+    },
+    {
+      "name": "Red Gram (Arhar/Tur)",
+      "image": "https://5.imimg.com/data5/QU/OA/MY-43117871/red-gram-seed-1000x1000.jpg",
+      "telugu": "కందులు",
+      "type": "Grocery",
+      "id": "1797"
+    },
+    {
+      "name": "Paddy",
+      "image": "http://www.homefamily.net/wp-content/uploads/2011/09/grains.jpg",
+      "telugu": "వరి",
+      "type": "Grocery",
+      "id": "e3be"
+    },
+    {
+      "name": "Sesame (Til)",
+      "image": "https://www.epicgardening.com/wp-content/uploads/2021/06/Sesame-seeds.jpg",
+      "telugu": "నువ్వులు",
+      "type": "Grocery",
+      "id": "ed4c"
+    },
+    {
+      "name": "Sorghum (Jowar)",
+      "image": "http://www.feedipedia.org/sites/default/files/images/sorghum_grain_01_0.jpg",
+      "telugu": "జొన్నలు",
+      "type": "Grocery",
+      "id": "294b"
+    },
+    {
+      "name": "Sugarcane",
+      "image": "https://m.media-amazon.com/images/I/71RNYWyW8XL.AC_SX679.jpg",
+      "telugu": "చెరుకుగడ",
+      "type": "Fruit",
+      "id": "767c"
+    },
+    {
+      "name": "Sunflower",
+      "image": "http://media-cache-ak0.pinimg.com/originals/62/9e/cd/629ecdf8d58313aabf226695791bcbcc.jpg",
+      "telugu": "పొద్దుతిరుగుడు పువ్వు",
+      "type": "Grocery",
+      "id": "f12e"
+    },
+    {
+      "name": "Tomato",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2021/07/tomatoes-1.jpg",
+      "telugu": "టొమాటో",
+      "type": "Vegetable",
+      "id": "458e"
+    },
+    {
+      "name": "Turmeric",
+      "image": "http://balconygardenweb.com/wp-content/uploads/2016/04/How-To-Grow-Turmeric-3-1.jpg",
+      "telugu": "పసుపు",
+      "type": "Grocery",
+      "id": "2347"
+    },
+    {
+      "name": "Wheat",
+      "image": "https://cdn.agdaily.com/wp-content/uploads/2016/09/wheat.jpg",
+      "telugu": "గోధుమలు",
+      "type": "Grocery",
+      "id": "e498"
+    },
+    {
+      "name": "Watermelon",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.TIDcZ8urQ8b9DSe2kirjGAHaDt&pid=Api&P=0&h=220",
+      "telugu": "పుచ్చకాయ",
+      "type": "Fruit",
+      "id": "f6af"
+    },
+    {
+      "name": "Banana",
+      "image": "https://gardeningdream.com/wp-content/uploads/2019/09/How-to-Grow-a-Banana-Tree-with-a-Store-Bought-Banana.png",
+      "telugu": "అరటిపండు",
+      "type": "Fruit",
+      "id": "917e"
+    },
+    {
+      "id": "d1ef",
+      "name": "onion",
+      "image": "https://m.media-amazon.com/images/I/41Pi5dfvOoL.jpg",
+      "telugu": "onion",
+      "type": "vegetable"
+    },
+    {
+      "id": "ae9d",
+      "name": "potato",
+      "image": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP-1200-80.jpg",
+      "telugu": "allu",
+      "type": "vegetables"
+    },
+    {
+      "id": "f112",
+      "name": "Lady-Finger",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/onion-health-benefits-1611265687.jpg?crop=0.8861673732140053xw:1xh;center,top&resize=1200:*",
+      "telugu": "Bendi",
+      "type": "vegetables"
+    }
+  ],
+  "Banana": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "fbff"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "5a4b"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "f7ad"
+    }
+  ],
+  "Bengal Gram": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "d94a"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "9571"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "024e"
+    }
+  ],
+  "Black Gram": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "b87d"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "a23f"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "7e54"
+    }
+  ],
+  "Brinjal": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "3604"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "d85f"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "7191"
+    }
+  ],
+  "Cashew": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "2a12"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "d624"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "405f"
+    }
+  ],
+  "Chilli": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "cdfa"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "fec9"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "f0b2"
+    }
+  ],
+  "Coconut": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "798e"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "e0c9"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "248d"
+    }
+  ],
+  "Cotton": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "93e4"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "863e"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "6e66"
+    }
+  ],
+  "Groundnut": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "22aa"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "af64"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "db90"
+    }
+  ],
+  "GreenGram": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "0314"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "8024"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "0e4c"
+    }
+  ],
+  "Lentils(Masoor Dal)": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "f73b"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "2481"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "d985"
+    }
+  ],
+  "Lemon": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "d099"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "a2f6"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "0742"
+    }
+  ],
+  "Maize": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "5cfc"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "1adc"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "971b"
+    }
+  ],
+  "Mango": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "c48a"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "5802"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "da31"
+    }
+  ],
+  "Pulses(lentils,peas,beans)": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "6983"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "2f18"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "5226"
+    }
+  ],
+  "Red Gram(Archar/Tur)": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "55c3"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "fba9"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "481b"
+    }
+  ],
+  "Paddy": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "42d6"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "2c46"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "a4d0"
+    }
+  ],
+  "Sesame": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "5ab4"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "7643"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "6894"
+    }
+  ],
+  "Sorghum(Jower)": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "0c97"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "3cb4"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "08fe"
+    }
+  ],
+  "Sugarcane": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "cbe3"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "6d51"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "e184"
+    }
+  ],
+  "Sunflower": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "ce9f"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "5c61"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "a386"
+    }
+  ],
+  "Tomato": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "e5c4"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "68dc"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "b3ae"
+    }
+  ],
+  "Turmeric": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "8521"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "4608"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "b5f9"
+    }
+  ],
+  "Wheat": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "ea04"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "c43e"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "0d69"
+    }
+  ],
+  "Watermelon": [
+    {
+      "name": "Teja",
+      "phone": "9532459765",
+      "address": "Vijayawada",
+      "email": "teja@gmail.com",
+      "id": "4751"
+    },
+    {
+      "name": "Abhi",
+      "phone": "9424573457",
+      "address": "Vizag",
+      "email": "abhi@gmail.com",
+      "id": "e6fb"
+    },
+    {
+      "name": "Kamal",
+      "phone": "8542518434",
+      "address": "Bhimavaram",
+      "email": "kamal@gmail.com",
+      "id": "63e9"
+    }
+  ]
+}
